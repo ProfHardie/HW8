@@ -1,3 +1,7 @@
-# HW1
+# HW8
 
-2+ page response that compares and contrasts Booch with Gotterbarn/Miller
+Produce activity diagrams for: 
+
+1) modeling the process of buying groceries, starting with a shopping list; 
+
+2) the binary search algorithm;
